@@ -7,7 +7,7 @@
 
 ## To create a new connection
 
-- Hostname: postgres        // Here is the same name of service on docker-compose for postgres service
+- Hostname: postgres <em>// Here is the same name of service on docker-compose for postgres service</em>
 - Port: 5432
 - Username: postgres
 - Password: password
